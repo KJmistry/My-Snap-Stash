@@ -17,10 +17,27 @@ Simply browse through the folders to find the assets you need. Feel free to down
 ## Notes  
 - All images belong to their respective creators.  
 - This repo is for **personal use**—please check usage rights before using externally.  
-
-## 🏷️ Tags  
-`#design #logos #images #quotes #inspiration`  
-
 ---
 
 💡 *Because great design starts with great resources.*  
+
+## ⚠️ License & Usage  
+This repository is a **personal collection** of images, logos, and quotes for reference and inspiration.  
+
+- **I do not claim ownership** of any third-party assets unless stated otherwise.  
+- If you're the creator of any image here and want it removed, please open an issue.  
+- Please check the original source for **copyright and usage rights** before using any asset.  
+
+*This repo is for personal use only, not for redistribution or commercial use.*  
+
+## Why is this Public?  
+Although this repo is primarily for **personal reference and inspiration**, it is public so that:  
+- Others can **explore and find inspiration** from the same visuals.  
+- Designers, developers, and creatives can **use it as a reference** when working on projects.  
+- It can serve as a **shared space for creative assets** that might be useful to a broader audience.
+
+## Want to Contribute?  
+This collection thrives on inspiration! Found something worth sharing? PRs are welcome!
+
+
+
